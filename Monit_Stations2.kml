@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name>Monit_Stations</name>
+<Style id="P0094200000">
+<IconStyle>
+<Icon>
+<href>https://raw.githubusercontent.com/kruzhan/Dniester2018/master/track-10.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>POINT</name>
+<Placemark>
+<description><![CDATA[<b>Код связи с базой данных</b> = 8 <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br><b>Собственное название (рус.)</b> = г. Могилев-Подольский <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>27.78988258,48.44401497,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код связи с базой данных</b> = 4 <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br><b>Собственное название (рус.)</b> = г.Залещики <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>25.73570647,48.63331674,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код связи с базой данных</b> = 3 <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br><b>Собственное название (рус.)</b> = г.Галич <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>24.72901158,49.12716705,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код связи с базой данных</b> = 1 <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br><b>Собственное название (рус.)</b> = пгт Роздол <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>24.06987970,49.43883849,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код объекта</b> = 24 <br><b>Собственное название (гос.)</b> = Hrusca <br><b>Площадь водосбора</b> = 48700.00 <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br><b>Собственное название (рус.)</b> = с.Хрушка (Молдова) <br><b>Код связи с базой данных</b> = 10 <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>28.57799181,48.10516279,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код объекта</b> = 43 <br><b>Код связи с базой данных</b> = 12 <br><b>Площадь водосбора</b> = 7100.00 <br><b>Собственное название (гос.)</b> = Jeloboc <br><b>Собственное название (рус.)</b> = с.Желобок <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>28.91633333,47.35632790,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код объекта</b> = 49 <br><b>Код связи с базой данных</b> = 14 <br><b>Площадь водосбора</b> = 882.00 <br><b>Собственное название (гос.)</b> = Pruncul <br><b>Собственное название (рус.)</b> = г.Кишинев <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>28.77733063,47.05700412,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код объекта</b> = 53 <br><b>Код связи с базой данных</b> = 17 <br><b>Площадь водосбора</b> = 1210.00 <br><b>Собственное название (гос.)</b> = Causeni <br><b>Собственное название (рус.)</b> = г. Кэушень <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>29.40591680,46.64765151,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код объекта</b> = 55 <br><b>Код связи с базой данных</b> = 15 <br><b>Площадь водосбора</b> = 68900.00 <br><b>Собственное название (гос.)</b> = Olanesti+Trn <br><b>Собственное название (рус.)</b> = р.Днестр – с.Оланешты <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>29.92676951,46.50196298,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код объекта</b> = 0 <br><b>Код связи с базой данных</b> = 13 <br><b>Площадь водосбора</b> = 66100.00 <br><b>Собственное название (гос.)</b> = Bender <br><b>Собственное название (рус.)</b> = г.Бендер <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>29.49104174,46.83227471,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код объекта</b> = 0 <br><b>Код связи с базой данных</b> = 11 <br><b>Площадь водосбора</b> = 53600.00 <br><b>Собственное название (гос.)</b> = Dubasari <br><b>Собственное название (рус.)</b> = Дубосарская ГЭС <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>29.12313701,47.27779752,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br><b>Собственное название (рус.)</b> = с.Верхнее Синевидное <br><b>Код связи с базой данных</b> = 2 <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>23.60535328,49.10890931,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br><b>Собственное название (рус.)</b> = р.Быстрица Надвирнянская – с.Черниив <br><b>Код связи с базой данных</b> = 5 <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>24.69791027,48.84830789,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br><b>Собственное название (рус.)</b> = р.Быстрица Солотвинская – г.Ивано-Франковск <br><b>Код связи с базой данных</b> = 6 <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>24.70426782,48.93756249,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br><b>Собственное название (рус.)</b> = г.Чертков <br><b>Код связи с базой данных</b> = 7 <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>25.81892588,48.97337754,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br><b>Собственное название (рус.)</b> = с.Завалье <br><b>Код связи с базой данных</b> = 9 <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>26.34190208,48.59710509,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код связи с базой данных</b> = 16 <br><b>Собственное название (рус.)</b> = рук.Турунчук – с.Незавертайловка <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>29.91828593,46.57314641,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код связи с базой данных</b> = 18 <br><b>Собственное название (гос.)</b> = Стрвяж - Луки <br><b>Собственное название (рус.)</b> = Стрывигор (Стрвяж) - Луки <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>23.37690802,49.61318448,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код связи с базой данных</b> = 19 <br><b>Собственное название (гос.)</b> = Верещиця - Комарне <br><b>Собственное название (рус.)</b> = Верещица - Комарне <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>23.70852007,49.62196766,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код связи с базой данных</b> = 20 <br><b>Собственное название (гос.)</b> = Бистриця (Тисменицька) - Озимина <br><b>Собственное название (рус.)</b> = Быстрица (Тисменицкая) - Озимина <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>23.39473870,49.46697481,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>23.39493252,49.46697481,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код связи с базой данных</b> = 21 <br><b>Собственное название (гос.)</b> = Свіча - Зарічне <br><b>Собственное название (рус.)</b> = Свича - Заричне <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>24.19692590,49.21407204,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код связи с базой данных</b> = 22 <br><b>Собственное название (гос.)</b> = Лимниця - Перевозець <br><b>Собственное название (рус.)</b> = Лимница - Перевозец <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>24.55116549,49.07786854,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код связи с базой данных</b> = 23 <br><b>Собственное название (гос.)</b> = Гнила Липа - Більшивці <br><b>Собственное название (рус.)</b> = Гнилая Липа - Бильшивцы <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>24.73233110,49.17259924,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код связи с базой данных</b> = 24 <br><b>Собственное название (гос.)</b> = Золота Липа - Задарів <br><b>Собственное название (рус.)</b> = Золотая Липа - Задарив <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>25.03419304,49.05535954,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код связи с базой данных</b> = 25 <br><b>Собственное название (гос.)</b> = Стрипа - Бучач <br><b>Собственное название (рус.)</b> = Стрипа - Бучач <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>25.39526449,49.05727020,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код связи с базой данных</b> = 26 <br><b>Собственное название (гос.)</b> = Смотрич - Цибулівка <br><b>Собственное название (рус.)</b> = Смотрич - Цибуливка <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>26.59883600,48.64792940,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код связи с базой данных</b> = 27 <br><b>Собственное название (гос.)</b> = Ушиця - Тимків <br><b>Собственное название (рус.)</b> = Ушица - Тымкив <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>27.08288107,48.79348005,0.0000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description><![CDATA[<b>Код связи с базой данных</b> = 28 <br><b>Собственное название (гос.)</b> = Мурафа - Миронівка <br><b>Собственное название (рус.)</b> = Мурафа - Миронивка <br><b>ТИП ГИДРОПОСТА</b> = Учитывается при расчетах <br>]]></description>
+<styleUrl>#P0094200000</styleUrl>
+<Point>
+<coordinates>28.16522328,48.29642555,0.0000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
