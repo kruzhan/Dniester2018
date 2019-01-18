@@ -4,10 +4,10 @@
 <name>Monit_Stations</name>
 <Style id="P0094200000">
 <IconStyle>
-<Icon>
-<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
-</Icon>
-</IconStyle>
+			<Icon>
+				<href>https://raw.githubusercontent.com/kruzhan/Dniester_2018/master/track-10.png</href>
+			</Icon>
+			</IconStyle>
 </Style>
 <Folder>
 <name>POINT</name>
